@@ -11,8 +11,8 @@ This notebook shows, how to train a neural network to balance a pole on a cart. 
 
 ![cart_pole_environment.PNG](cart_pole_environment.PNG)
     
-Please have a look here: https://gym.openai.com/envs/CartPole-v1/ for more details. 
-By using unsupervised reinforcement learning the model learning to balance better and better:    
+Please have a look at https://gym.openai.com/envs/CartPole-v1/ for more details. 
+By using unsupervised reinforcement learning the model is learning to balance better and better:    
     
 ![learning_progress.PNG](learning_progress.PNG) 
        

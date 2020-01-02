@@ -7,12 +7,12 @@ This notebook is for you if you are relatively (or completely) new to reinforcem
 * Pytorch
 
 ### Overview
-This notebook shows, how to train a neural network to balance a pole on a cart. For this we are using a "prefabricated environment" provided by OpenAI: **The Cart pole environment**.    
+This notebook shows, how to train a neural network to balance a pole on a cart. For this we are using a "prefabricated environment" provided by OpenAI: [The Cart pole environment](https://gym.openai.com/envs/CartPole-v1/).    
 
 ![cart_pole_environment.PNG](cart_pole_environment.PNG)
     
-Please have a look at https://gym.openai.com/envs/CartPole-v1/ for more details. 
-By using unsupervised reinforcement learning the model is learning to balance better and better:    
+Please have a look at https://gym.openai.com/envs/CartPole-v1/ for more details - especially about the properties of the observation and action space.    
+By using unsupervised reinforcement learning the model is learning to balance better and better by using a neural network:    
     
 ![learning_progress.PNG](learning_progress.PNG) 
        
